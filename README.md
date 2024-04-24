@@ -12,8 +12,5 @@ The HR Analytics Dashboard provides insights into employee attrition and aims to
 - Identifies potential reasons for attrition and provides actionable insights for HR decision-making.
 
 ## Screenshots/Demo
-
-![Dashboard Overview](/Screenshots/Dashboard1.png)
-![Attrition by Department](/Screenshots/Dashboard2.png)
 ![Dashboard Overview](https://github.com/DebashishKumarBora/Screenshots/blob/main/Dashboard1.png)
 ![Attrition by Department](https://github.com/DebashishKumarBora/Screenshots/blob/main/Dashboard2.png)
